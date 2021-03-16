@@ -1,4 +1,4 @@
 id,nutrition_value,nutrition_type
-1,0.45075707702435813,total_fat_calories
-2,0.34404213298222514,total_carb_calories
-3,0.20972862263184844,total_protein_calories
+1,0.45,total_fat_calories
+2,0.34,total_carb_calories
+3,0.21,total_protein_calories
