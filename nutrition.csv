@@ -1,4 +1,4 @@
-id,nutrition
-1,239
-2,183
-3,111
+id,nutrition_value,nutrition_type
+1,239,total_fat_calories
+2,183,total_carb_calories
+3,111,total_protein_calories
